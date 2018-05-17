@@ -26,7 +26,7 @@ To begin using this template, choose one of the following options to get started
 
 ## FAQs
 ### How to Change the Color of the theme?
-* The color code used is "#93a903"
+* The color code used is "#f8aa27"
 * Search for this color code in css/style.css and css/responsive.css and replace it with your color code.
 
 ### PHP Contact Form - Where to set the 'Receiver Email ID' and 'Subject'?
